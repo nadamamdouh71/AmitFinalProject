@@ -53,6 +53,7 @@
 #define TCCR1A (*(volatile Uint8*)(0x4F))
 #define TCCR1B (*(volatile Uint8*)(0x4E))
 #define OCR1A  (*(volatile Uint16*)(0x4A))
+#define OCR1B  (*(volatile Uint16*)(0x48))
 #define ICR1   (*(volatile Uint16*)(0x46))
 
 /********************************** I2C ********************************************/

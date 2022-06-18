@@ -5,3 +5,12 @@
  *  Author: eng_s
  */ 
 #include "Servo.h"
+
+void ServoInit(void)
+{
+	
+}
+void ServoGoToAngle(Sint8 Angle)
+{
+	
+}

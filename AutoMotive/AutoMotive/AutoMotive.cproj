@@ -147,6 +147,12 @@
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="Motor.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Motor.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="Servo.c">
       <SubType>compile</SubType>
     </Compile>
@@ -154,6 +160,15 @@
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="STD_types.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Timer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Timer.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TimerCnfg.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="UltraSonic.c">

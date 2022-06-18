@@ -10,7 +10,11 @@ LCD4bit_8bit.c
 
 main.c
 
+Motor.c
+
 Servo.c
+
+Timer.c
 
 UltraSonic.c
 

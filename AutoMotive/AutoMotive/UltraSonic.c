@@ -5,3 +5,12 @@
  *  Author: eng_s
  */ 
 #include "UltraSonic.h"
+
+void UltraSonic_Init(void)
+{
+	
+}
+Uint8 UltraSonicDistance(void)
+{
+	return 30;
+}
